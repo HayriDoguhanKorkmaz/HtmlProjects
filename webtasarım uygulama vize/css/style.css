@@ -1,0 +1,39 @@
+body{
+    background-color: #F0F8FF;
+  }
+
+  h1{
+    color : #F0F8FF;
+  }
+
+  h3{
+    color : #F0F8FF;
+  }
+
+  p{
+    color : #F0F8FF;
+  }
+  
+  h4{
+    color : #343a40;;
+  }
+  
+  h5 {
+    color : #F0F8FF;
+  }
+  
+  h6{
+    color: #343a40;
+  }
+  
+  hr{
+    color : #F0F8FF;
+  }
+
+  a{
+    color :#343a40;
+  }
+  
+  footer{
+    background-color: #F0F8FF;
+  }
